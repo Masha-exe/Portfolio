@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />Nous recrutons activement
               <i>
-                <b className="purple"> C++, des CM et Staff. </b>
+                <b className="purple"> Animateurs, des CM et Staff. </b>
               </i>
               <br />
               <br />
@@ -60,7 +60,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>Retrouve nous sur</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Retrouve nous sur les <span className="purple">réseaux </span>sociaux
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
